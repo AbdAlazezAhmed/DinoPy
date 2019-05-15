@@ -12,7 +12,7 @@ def main () :
         i = 0 # submission for the jump region
         z = 0 # submission for the dock region
         j = 250 # start of jump region
-        k = 180 # end of jump region
+        k = 180 # start of dock region
 
         while j < 340 :
             i = i + screen[337, j]
